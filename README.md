@@ -493,3 +493,13 @@
 
 ![PlayLoc](https://github.com/NIK0666/SDC_Documentation/assets/11288703/55030802-cbad-40fd-b935-75f2a5a74167)
 
+# Запуск диалога в Blueprints
+
+Запустить диалог очень просто. Достаточно вызвать метод Play подсистемы SmartDialogueSubsystem:
+
+![PlayDialogue](https://github.com/NIK0666/SDC_Documentation/assets/11288703/e6647813-680f-4460-813f-83e3c330feb4)
+
+
+
+
+
